@@ -1,5 +1,5 @@
 /* 
- * Copyright 2019 Mario Merlos Abella - mario.merlos.alum@iescamp.es.
+ * Copyright 2020 Mario Merlos Abella - mario.merlos.alum@iescamp.es.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -24,6 +24,6 @@ package org.japo.java.app;
 public final class App {
     public final void launchApp() {
         System.out.println("You have won a million of Euros, Congratulition!!!");
-//        System.out.println(Main.class);
+
     }
 }
